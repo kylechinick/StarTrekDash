@@ -57,7 +57,7 @@ _This is a Star Trek Themed Dashboard. Provides weather data for San Francisco, 
 <li>Clone this repository to your local machine by running the following command in your preferred terminal application:
 
 ```Shell
-git clone https://github.com/AsheUrban/StarTrekDash.git
+git clone https://github.com/kylechinick/StarTrekDash
 ```
 
 _Note:_ for Primary Fork/Team Repo visit, https://github.com/carolinecerussi/StarTrekDash.git
